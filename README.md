@@ -20,7 +20,6 @@ This project is a collection of open source intelligence (OSINT) bookmarks, exam
 * Data Breach Assets: [https://dehashed.com/](https://dehashed.com/)
 * Username Lookup: [https://whatsmyname.app/](https://whatsmyname.app/)
 * Image Analysis: [https://fotoforensics.com/](https://fotoforensics.com/)
-* Web Scraping Tool: [https://console.apify.com/actors/aYG0l9s7dbB7j3gbS/input](https://console.apify.com/actors/aYG0l9s7dbB7j3gbS/input)
 
 ## Applications
 
